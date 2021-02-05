@@ -10,7 +10,7 @@ import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "ferr_producto")
+@Table(name = "ferr_producto" )
 public class Productos implements Serializable {
 
 	/**
